@@ -1,4 +1,3 @@
----@diagnostic disable: undefined-global, deprecated
 --[[
 	Krowi's Tutorials License
         Copyright ©2020 The contents of this library, excluding third-party resources, are
