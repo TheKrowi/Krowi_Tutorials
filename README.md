@@ -15,9 +15,9 @@ A comprehensive library for creating and displaying tutorial pages with images, 
 - **Easy Integration**: Simple API for quick implementation
 - **LibStub Support**: Standard LibStub library structure for dependency management
 
-### API Usage
+## Usage Examples
 
-#### Basic Tutorial Setup
+### Basic Tutorial Setup
 ```lua
 local tutorials = LibStub("Krowi_Tutorials-3.0")
 local featuresTutorial = tutorials:New("FeaturesTutorial", SavedData)
