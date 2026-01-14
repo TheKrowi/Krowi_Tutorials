@@ -2,7 +2,7 @@ A comprehensive library for creating and displaying tutorial pages with images, 
 
 ## Features
 
-### Tutorial System (`Krowi_Tutorials-3.0`)
+### Tutorial System (`Krowi_Tutorials`)
 - **Page-Based Tutorials**: Create multi-page tutorials with images and text
 - **Image Support**: Display images with customizable sizes and margins
 - **Flexible Layout**: Customize text margins, frame titles, and page content
@@ -15,7 +15,7 @@ A comprehensive library for creating and displaying tutorial pages with images, 
 
 ### Basic Tutorial Setup
 ```lua
-local tutorials = LibStub("Krowi_Tutorials-3.0")
+local tutorials = LibStub("Krowi_Tutorials")
 local featuresTutorial = tutorials:New("FeaturesTutorial", SavedData)
 
 -- Configure the tutorial
